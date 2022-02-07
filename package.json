@@ -1,12 +1,12 @@
 {
-  "name": "capybaras-be-coding-challenge",
+  "name": "be-coding-challenge",
   "version": "1.0.0",
   "description": "",
   "main": "src/task-1.ts",
   "scripts": {
     "test": "jest --watchAll"
   },
-  "author": "Team Capybaras <DL-DAZN-Capybaras@dazn.com>",
+  "author": "",
   "license": "UNLICENSED",
   "devDependencies": {
     "@types/jest": "^27.0.2",
